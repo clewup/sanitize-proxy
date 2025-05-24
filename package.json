@@ -1,6 +1,6 @@
 {
   "name": "sanitize-proxy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Redact and sanitize sensitive information in JavaScript objects",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
