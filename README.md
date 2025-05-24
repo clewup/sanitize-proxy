@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/sanitize-proxy)](https://www.npmjs.com/package/sanitize-proxy)
 [![license](https://img.shields.io/npm/l/sanitize-proxy)](LICENSE)
-[![build](https://img.shields.io/github/actions/workflow/status/clewup/sanitize-proxy/test.yml?branch=main)](https://github.com/clewup/sanitize-proxy/actions)
+[![build](https://img.shields.io/github/actions/workflow/status/clewup/sanitize-proxy/ci.yml?branch=master)](https://github.com/clewup/sanitize-proxy/actions)
 
 > A tiny utility to sanitize and redact sensitive fields in JavaScript/TypeScript objects — perfect for logging, debugging, and safely exposing data.
 
