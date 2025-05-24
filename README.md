@@ -6,7 +6,6 @@
 
 > A tiny utility to sanitize and redact sensitive fields in JavaScript/TypeScript objects — perfect for logging, debugging, and safely exposing data.
 
----
 
 ## ✨ Features
 
@@ -24,6 +23,8 @@
 ```bash
 npm install sanitize-proxy
 ```
+
+---
 
 ## 🚀 Quick Start
 
@@ -59,6 +60,8 @@ console.log(clean);
 }
 ```
 
+---
+
 ## ⚙️  Options
 
 | Option            | Type       | Default        | Description                                                  |
@@ -73,15 +76,21 @@ console.log(clean);
 ['password', 'token', 'apiKey', 'ssn']
 ```
 
+---
+
 ## 🧪 Running Tests
 
 ```bash
 npm test
 ```
 
+---
+
 ## 📄 License
 
 MIT
+
+---
 
 ## 🙋‍♀️ Contributing
 
