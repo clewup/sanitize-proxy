@@ -1,6 +1,6 @@
 {
   "name": "sanitize-proxy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Redact and sanitize sensitive information in JavaScript objects",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -12,6 +12,14 @@
     "build": "tsc",
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clewup/sanitize-proxy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/clewup/sanitize-proxy/issues"
+  },
+  "homepage": "https://github.com/clewup/sanitize-proxy#readme",
   "devDependencies": {
     "@types/jest": "^29.5.14",
     "@types/node": "^22.15.21",
